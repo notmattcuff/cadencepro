@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to Cadence Pro
 
-You can use the [editor on GitHub](https://github.com/notmattcuff/cadencepro/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Cadence Pro is an app designed to let you set the beats per minute aka the tempo of your Apple Music library on iOS. This allows you to sync your your steps aka cadence to the beat of your music library! Enjoy your music at heart racing speeds or use it to improve your running cadence. You can even use Cadence Pro to slow you music down!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Why Cadence Pro
 
-### Markdown
+When I first started running, I quickly learned that cadence was important because the faster your cadence is, the less impact you have on each stride and thus the less likely you are to suffer an injury. With that in mind I tried to find an app that could do what Cadence Pro can do - play my own music library from Apple Music to whatever speed I wanted. After a long search, nothing quite fit the bill and being a software developer, I decided to make the app that I wanted to use. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/notmattcuff/cadencepro/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Support Contact
+cadenceproapp@gmail.com
