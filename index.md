@@ -8,25 +8,17 @@ When I first started running, I quickly learned that cadence was important becau
 
 ### Privacy Policy
 
-Privacy Policy
-
-Your privacy is important to us. It is Cadence Pro's policy that we do not collection any information about you at all. 
+Your privacy is important to us. It is Cadence Pro's policy that we do not collect any information about you at all. We ask for access to your music library just to play your music and no information about you or your music library leaves the device.
 
 This policy is effective as of 25 October 2021 and was last updated on 25 October 2021.
 
-Information We Collect
+Information We (don't) Collect
 
 We do not collect any information whatsoever. We ask for access to your Apple Music library but that information does not leave your device and we do not have access to that or any other information. I do not write privacy policies for a living so this is one that I found on the internet. The app is simple and does not collect or need to collect data and the app is made free of charge because I did this for fun because I needed the app myself. 
 
 Children’s Privacy
 
 We do not aim any of our products or services directly at children under the age of 13, and we do not knowingly collect personal information about children under 13.
-
-International Transfers of Personal Information
-
-Your Rights and Controlling Your Personal Information
-
-You always retain the right to withhold personal information from us, with the understanding that your experience of our website may be affected. We will not discriminate against you for exercising any of your rights over your personal information. If you do provide us with personal information you understand that we will collect, hold, use and disclose it in accordance with this privacy policy. You retain the right to request details of any personal information we hold about you.
 
 Changes to This Policy
 
