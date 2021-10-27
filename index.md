@@ -6,5 +6,34 @@ Cadence Pro is an app designed to let you set the beats per minute aka the tempo
 
 When I first started running, I quickly learned that cadence was important because the faster your cadence is, the less impact on your body with each stride and thus the less likely you are to suffer an injury. With that in mind I tried to find an app that could do what Cadence Pro can do - play my own music library from Apple Music at whatever speed I choose. After a long search, nothing quite fit the bill and being a software developer, I decided to make the app that I wanted to use and Cadence Pro was born!
 
+### Privacy Policy
+
+Privacy Policy
+
+Your privacy is important to us. It is Cadence Pro's policy that we do not collection any information about you at all. 
+
+This policy is effective as of 25 October 2021 and was last updated on 25 October 2021.
+
+Information We Collect
+
+We do not collect any information whatsoever. We ask for access to your Apple Music library but that information does not leave your device and we do not have access to that or any other information. I do not write privacy policies for a living so this is one that I found on the internet. The app is simple and does not collect or need to collect data and the app is made free of charge because I did this for fun because I needed the app myself. 
+
+Children’s Privacy
+
+We do not aim any of our products or services directly at children under the age of 13, and we do not knowingly collect personal information about children under 13.
+
+International Transfers of Personal Information
+
+Your Rights and Controlling Your Personal Information
+
+You always retain the right to withhold personal information from us, with the understanding that your experience of our website may be affected. We will not discriminate against you for exercising any of your rights over your personal information. If you do provide us with personal information you understand that we will collect, hold, use and disclose it in accordance with this privacy policy. You retain the right to request details of any personal information we hold about you.
+
+Changes to This Policy
+
+At our discretion, we may change our privacy policy to reflect updates to our business processes, current acceptable practices, or legislative or regulatory changes. If we decide to change this privacy policy, we will post the changes here at the same link by which you are accessing this privacy policy.
+
+If required by law, we will get your permission or give you the opportunity to opt in to or opt out of, as applicable, any new uses of your personal information.
+
+
 ### Support Contact
 cadenceproapp@gmail.com
